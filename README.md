@@ -7,13 +7,11 @@
         I'm a computer engineering student at  K.N.Toosi University of Technology.🥂<br>
         I'm working on machine learning, deep learning, object detection and image segmentation tasks.🍾<br>
       <p align="left">      - 🔭 I’m currently working on ...<br> </p>
-      <p align="left">- 🌱 I’m currently learning ...<br> </p>
-      <p align="left">- 👯 I’m looking to collaborate on ...<br> </p>
-      <p align="left">- 🤔 I’m looking for help with ...<br> </p>
-      <p align="left">- 💬 Ask me about ...<br> </p>
-      <p align="left">- 📫 How to reach me: ...<br> </p>
-      <p align="left">- 😄 Pronouns: ...<br> </p>
-      <p align="left">- ⚡ Fun fact: ...<br> </p>
+      <p align="left">- 🌱 I’m currently reading Modern Computer Vision Book<br> </p>
+      <p align="left">- 💬 Ask me about A.I stuff<br> </p>
+      <p align="left">- 📫 How to reach me: borhanpetgar40@gmail.com<br> </p>
+      <p align="left">- 😄 Pronouns: Borhan<br> </p>
+      <p align="left">- ⚡ Fun fact: I'm a huge fan of Chess♟<br> </p>
     </i><br>
     <a href="https://www.linkedin.com/in/borhan-petgar-571564220/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
