@@ -6,7 +6,7 @@
         I'm Borhan Petgar.🐳<br>
         I'm a computer engineering student at  K.N.Toosi University of Technology.🥂<br>
         I'm working on machine learning, deep learning, object detection and image segmentation tasks.🍾<br>
-      <p align="left">      - 🔭 I’m currently working on ...<br> </p>
+      <p align="left">      - 🔭 I’m currently working on CV tasks<br> </p>
       <p align="left">- 🌱 I’m currently reading Modern Computer Vision Book<br> </p>
       <p align="left">- 💬 Ask me about A.I stuff<br> </p>
       <p align="left">- 📫 How to reach me: borhanpetgar40@gmail.com<br> </p>
@@ -47,16 +47,16 @@
 <details>
 <p align="center">
   <a href="https://github.com/BorhanPetgar">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BorhanPetgar&theme=transparent" />
-  </a>
-  <a href="https://github.com/wervlad">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BorhanPetgar&hide_border=true&card_width=338&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BorhanPetgar&theme=dracula" />
   </a>
   <a href="https://github.com/BorhanPetgar">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BorhanPetgar&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BorhanPetgar&hide_border=true&card_width=338&theme=dracula" />
   </a>
   <a href="https://github.com/BorhanPetgar">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorhanPetgar&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BorhanPetgar&theme=dracula" />
+  </a>
+  <a href="https://github.com/BorhanPetgar">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorhanPetgar&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=dracula" />
   </a>
 </p>
 </details>
