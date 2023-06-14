@@ -10,7 +10,7 @@
       <p align="left">- 🌱 I’m currently reading Modern Computer Vision Book<br> </p>
       <p align="left">- 💬 Ask me about A.I stuff<br> </p>
       <p align="left">- 📫 How to reach me: borhanpetgar40@gmail.com<br> </p>
-      <p align="left">- 😄 Pronouns: Borhan<br> </p>
+      <p align="left">- 😄 Call me Borhan!<br> </p>
       <p align="left">- ⚡ Fun fact: I'm a huge fan of Chess♟<br> </p>
     </i><br>
     <a href="https://www.linkedin.com/in/borhan-petgar-571564220/">
@@ -44,20 +44,19 @@
 [![Linux](https://img.shields.io/badge/linux-yellow?style=for-the-badge&logo=Linux)](https://github.com/BorhanPetgar)
 [![Windows](https://img.shields.io/badge/Windows-lightblue?style=for-the-badge&logo=Windows)](https://github.com/BorhanPetgar)
 
-<details>
-<p align="center">
-  <a href="https://github.com/BorhanPetgar">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BorhanPetgar&theme=dracula" />
-  </a>
-  <a href="https://github.com/BorhanPetgar">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BorhanPetgar&hide_border=true&card_width=338&theme=dracula" />
-  </a>
-  <a href="https://github.com/BorhanPetgar">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BorhanPetgar&theme=dracula" />
-  </a>
 
-</p>
-</details>
+
+[![Borhan's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BorhanPetgar&theme=tokyonight)](https://github.com/BorhanPetgar)
+  
+    
+[![Borhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BorhanPetgar&show_icons=true&theme=tokyonight)](https://github.com/BorhanPetgar)
+
+
+
+<!-- streak
+[![Borhan's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=BorhanPetgar&hide_border=true&card_width=338&theme=tokyonight)](https://github.com/BorhanPetgar)
+-->
+
 
 <!--
 
