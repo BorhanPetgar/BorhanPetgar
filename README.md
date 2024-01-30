@@ -27,6 +27,7 @@
 [![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=openjdk)](https://github.com/BorhanPetgar)
 [![C](https://img.shields.io/badge/c-blue?style=for-the-badge&logo=c)](https://github.com/BorhanPetgar)
 [![SQL](https://img.shields.io/badge/sql-lightyellow?style=for-the-badge&logo=mysql)](https://github.com/BorhanPetgar)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### ML/DL
 [![PyTorch](https://img.shields.io/badge/PyTorch-purple?style=for-the-badge&logo=PyTorch)](https://github.com/BorhanPetgar)
@@ -39,7 +40,7 @@
 ### Technologies & Frameworks
 [![HTML5](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5)](https://hub.docker.com/u/BorhanPetgar)
 [![CSS3](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3)](https://hub.docker.com/u/BorhanPetgar)
-
+![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ### OS
 [![Linux](https://img.shields.io/badge/linux-yellow?style=for-the-badge&logo=Linux)](https://github.com/BorhanPetgar)
 [![Windows](https://img.shields.io/badge/Windows-lightblue?style=for-the-badge&logo=Windows)](https://github.com/BorhanPetgar)
