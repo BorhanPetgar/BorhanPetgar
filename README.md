@@ -5,8 +5,8 @@
     <i>
         I'm Borhan Petgar.🐳<br>
         I'm a computer engineering student at  K.N.Toosi University of Technology.🥂<br>
-        I'm working on machine learning, deep learning, object detection and image segmentation tasks.🍾<br>
-      <p align="left">      - 🔭 I’m currently working on CV tasks<br> </p>
+        I'm working on machine learning, Computer Vision, NLP and LLM tasks.🍾<br>
+      <p align="left">      - 🔭 I’m currently working on CV, NLP, LLM, ML tasks<br> </p>
       <p align="left">- 💬 Ask me about A.I stuff<br> </p>
       <p align="left">- 📫 How to reach me: borhanpetgar40@gmail.com<br> </p>
       <p align="left">- 😄 Call me Borhan!<br> </p>
