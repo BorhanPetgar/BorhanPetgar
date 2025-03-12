@@ -30,6 +30,7 @@
 
 ### ML/DL
 [![PyTorch](https://img.shields.io/badge/PyTorch-purple?style=for-the-badge&logo=PyTorch)](https://github.com/BorhanPetgar)
+[![Tensorflow](https://img.shields.io/badge/TensorFlow-FF3F06?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/BorhanPetgar)
 [![Pandas](https://img.shields.io/badge/pandas-pink?style=for-the-badge&logo=pandas)](https://github.com/BorhanPetgar)
 [![NumPy](https://img.shields.io/badge/numpy-blue?style=for-the-badge&logo=numpy)](https://github.com/BorhanPetgar)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/BorhanPetgar)
