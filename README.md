@@ -5,7 +5,7 @@
     <i>
         I'm Borhan Petgar.🐳<br>
         K.N.Toosi University of Technology computer engineering graduate🥂<br>
-        I'm working on machine learning, Computer Vision, NLP and LLM tasks.🍾<br>
+        I'm working on Multimodal ML and GNN tasks.🍾<br>
       <p align="left">      - 🔭 I’m currently working on CV, NLP, LLM, ML tasks<br> </p>
       <p align="left">- 💬 Ask me about A.I stuff<br> </p>
       <p align="left">- 📫 How to reach me: borhanpetgar40@gmail.com<br> </p>
